@@ -1,0 +1,7 @@
+Git notes
+==========
+
+install gh (cli.github.com)
+gh auth login
+gh repo create [ configure setting ]
+

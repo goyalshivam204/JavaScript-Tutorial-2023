@@ -1,0 +1,12 @@
+JAVASCRIPT DOCS
+===============
+=> MDN Mozilla or Ecma Script official web site.
+
+
+I AM STARTING COMPLETE DOCUMENTATION FROM MDN
+=============================================
+
+JAVASCRIPT BASICS 
+=================
+[https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics]
+
