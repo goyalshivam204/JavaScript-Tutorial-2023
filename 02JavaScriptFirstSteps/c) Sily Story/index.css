@@ -1,0 +1,9 @@
+.form .form__group{
+    margin: 10px 0px;
+}
+
+.form .form__story{
+    background-color: #ffdd00;
+    max-width: 400px;
+    padding: 20px 10px;
+}

@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="./index.js" defer></script>
+    <link rel="stylesheet" href="./index.css">
+</head>
+<body>
+    <div class="form">
+        <div class="form__group">
+            <label for="name"><b>Enter Customer Name:</b></label>
+            <input type="text" name="name" id="name">
+        </div>
+        <div class="form__group">
+            <label for="country_us"><b>US</b></label>
+            <input type="radio" name="country" id="country_us" value="US" checked>
+            <label for="country_uk"><b>UK</b></label>
+            <input type="radio" name="country" id="country_uk" value="UK">
+        </div>
+        <div class="form__group">
+            <input type="button" id="submitInput" value="Generate Random story" readonly>
+        </div>  
+        <div class="form__story">
+        </div>
+    </div>
+   
+</body>
+</html>
