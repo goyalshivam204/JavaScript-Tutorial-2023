@@ -38,5 +38,10 @@ submitInput.addEventListener("click",()=>{
         customerName = nameInput.value;
     }
     const storyContent = `It was ${temperature} ${temperatureScale} outside, so Willy the Goblin went for a walk. When they got to Disneyland, they stared in horror for a few moments, then melted into a puddle on the sidewalk. ${customerName} saw the whole thing, but was not surprised — Willy the Goblin weighs ${weight} ${weightScale}, and it was a hot day.`
+    storyDiv.classList.add("pt-20");
+    storyDiv.classList.add("pb-20");
+    storyDiv.classList.add("pr-10");
+    storyDiv.classList.add("pl-10");
+    // console.log(storyDiv.classList); // no increase in class
     storyDiv.textContent = storyContent;
 });

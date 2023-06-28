@@ -5,5 +5,16 @@
 .form .form__story{
     background-color: #ffdd00;
     max-width: 400px;
-    padding: 20px 10px;
+}
+.pt-20{
+    padding-top: 20px;
+}
+.pb-20 {
+    padding-bottom: 20px;
+}
+.pr-10 {
+    padding-right: 10px;
+}
+.pl-10 {
+    padding-left: 10px;
 }
