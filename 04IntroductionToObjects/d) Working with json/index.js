@@ -55,8 +55,8 @@ async function populate() {
 
     populateHeader(superHeroes);
     populateHeroes(superHeroes);
-    console.log("1");
+  console.log("1");  // to show it's a async function.
 }
 
-populate();
+populate(); // to show it's a async function.
 console.log("2");
